@@ -39,7 +39,7 @@ We have used the MIH-BIH Arrythmia dataset which is made aavailable under the OD
 
   
 
-![App Screenshot]("https://github.com/Sagarnaikg/Heart-Arrhythmias-with-Deep-Learning-in-Keras/blob/main/download.png")
+<img src="https://github.com/Sagarnaikg/Heart-Arrhythmias-with-Deep-Learning-in-Keras/blob/main/download.png"/>
 
   
 ## CNN
